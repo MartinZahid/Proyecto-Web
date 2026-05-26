@@ -13,7 +13,7 @@ using System.Reflection;
 
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("a9a70c80-5755-407b-bfb9-6aab7f342e29")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaHoteleroWeb")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e07c43ae37be799e6c2777d8514f57b5a519d81")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaHoteleroWeb")]

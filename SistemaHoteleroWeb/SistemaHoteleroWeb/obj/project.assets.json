@@ -171,23 +171,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\robol\\.nuget\\packages\\": {},
+    "C:\\Users\\Maritn\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\robol\\source\\repos\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+      "projectUniqueName": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
       "projectName": "SistemaHoteleroWeb",
-      "projectPath": "C:\\Users\\robol\\source\\repos\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
-      "packagesPath": "C:\\Users\\robol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\robol\\source\\repos\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\obj\\",
+      "projectPath": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+      "packagesPath": "C:\\Users\\Maritn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\robol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Maritn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

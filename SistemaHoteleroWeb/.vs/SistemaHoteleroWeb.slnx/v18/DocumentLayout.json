@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\robol\\source\\repos\\SistemaHoteleroWeb\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{B522CBA8-37AC-4F9E-BC6A-B3AF990D3873}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\source\\repos\\sistemahoteleroweb\\sistemahoteleroweb\\sistemahoteleroweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B522CBA8-37AC-4F9E-BC6A-B3AF990D3873}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\sistemahoteleroweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,20 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SistemaHoteleroWeb",
-              "DocumentMoniker": "C:\\Users\\robol\\source\\repos\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
-              "RelativeDocumentMoniker": "SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
-              "ToolTip": "C:\\Users\\robol\\source\\repos\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
-              "RelativeToolTip": "SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-25T08:50:30.006Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             }
           ]
         }
