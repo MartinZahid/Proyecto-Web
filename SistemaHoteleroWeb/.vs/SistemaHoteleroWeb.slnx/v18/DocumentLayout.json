@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\maritn\\onedrive\\documentos\\ith\\pregamacion web\\proyectoweb\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\maritn\\onedrive\\documentos\\ith\\pregamacion web\\proyectoweb\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\maritn\\onedrive\\documentos\\ith\\pregamacion web\\proyectoweb\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\maritn\\onedrive\\documentos\\ith\\pregamacion web\\proyectoweb\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\maritn\\onedrive\\documentos\\ith\\pregamacion web\\proyectoweb\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\sistemahoteleroweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\sistemahoteleroweb.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +30,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Habitacion.cs",
+              "DocumentMoniker": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\Habitacion.cs",
+              "RelativeDocumentMoniker": "SistemaHoteleroWeb\\Models\\Habitacion.cs",
+              "ToolTip": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\Habitacion.cs",
+              "RelativeToolTip": "SistemaHoteleroWeb\\Models\\Habitacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:28:28.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\appsettings.json",
+              "RelativeDocumentMoniker": "SistemaHoteleroWeb\\appsettings.json",
+              "ToolTip": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\appsettings.json",
+              "RelativeToolTip": "SistemaHoteleroWeb\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T09:27:31.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "SistemaHoteleroWeb\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Properties\\launchSettings.json",
+              "RelativeToolTip": "SistemaHoteleroWeb\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-26T09:27:12.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SistemaHoteleroWeb",
+              "DocumentMoniker": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+              "RelativeDocumentMoniker": "SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+              "ToolTip": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+              "RelativeToolTip": "SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-26T09:27:04.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaHoteleroWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Program.cs",
+              "RelativeToolTip": "SistemaHoteleroWeb\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T09:27:00.338Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
