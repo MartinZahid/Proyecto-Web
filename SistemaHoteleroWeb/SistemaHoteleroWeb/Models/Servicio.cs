@@ -1,7 +1,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace ProyectoFinal.Models
+namespace SistemaHoteleroWeb.Models
 {
     public class Servicio
     {
