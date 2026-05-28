@@ -2,6 +2,7 @@
 
 namespace SistemaHoteleroWeb.DTOs
 {
+    // DTO para crear / actualizar un cliente (POST y PUT)
     public class ClienteDto
     {
         [Required(ErrorMessage = "El nombre es obligatorio.")]
@@ -19,6 +20,16 @@ namespace SistemaHoteleroWeb.DTOs
         [Required(ErrorMessage = "El correo electrónico es obligatorio.")]
         [EmailAddress(ErrorMessage = "El formato del correo no es válido.")]
         [StringLength(100)]
+        public string Email { get; set; } = string.Empty;
+    }
+
+    // DTO de respuesta (GET) — incluye el Id
+    public class ClienteReadDto
+    {
+        public int Id { get; set; }
+        public string Nombre { get; set; } = string.Empty;
+        public string RFC { get; set; } = string.Empty;
+        public string Telefono { get; set; } = string.Empty;
         public string Email { get; set; } = string.Empty;
     }
 }
