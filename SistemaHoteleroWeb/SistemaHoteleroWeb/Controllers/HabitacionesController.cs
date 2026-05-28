@@ -9,11 +9,11 @@ namespace SistemaHoteleroWeb.Controllers
 
         [ApiController]
         [Route("api/[controller]")]
-        public class habitacionesController : ControllerBase
+        public class HabitacionesController : ControllerBase
         {
             private readonly ApplicationDbContext _context;
 
-            public habitacionesController(ApplicationDbContext context)
+            public HabitacionesController(ApplicationDbContext context)
             {
                 _context = context;
             }

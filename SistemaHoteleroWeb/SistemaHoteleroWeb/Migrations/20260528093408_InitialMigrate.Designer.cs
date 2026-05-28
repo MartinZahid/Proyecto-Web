@@ -12,7 +12,7 @@ using SistemaHoteleroWeb.Data;
 namespace SistemaHoteleroWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260528090449_InitialMigrate")]
+    [Migration("20260528093408_InitialMigrate")]
     partial class InitialMigrate
     {
         /// <inheritdoc />

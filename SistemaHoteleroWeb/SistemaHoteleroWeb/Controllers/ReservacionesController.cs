@@ -6,15 +6,14 @@ using SistemaHoteleroWeb.Models;
 
 namespace SistemaHoteleroWeb.Controllers
 {
-    public class ReservacionesController
-    {
+   
         [ApiController]
         [Route("api/[controller]")]
-        public class reservacionesController : ControllerBase
+        public class ReservacionesController : ControllerBase
         {
             private readonly ApplicationDbContext _context;
 
-            public reservacionesController(ApplicationDbContext context)
+            public ReservacionesController(ApplicationDbContext context)
             {
                 _context = context;
             }
@@ -180,4 +179,3 @@ namespace SistemaHoteleroWeb.Controllers
             }
         }
     }
-}
