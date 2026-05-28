@@ -1,4 +1,5 @@
 ﻿using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace SistemaHoteleroWeb.Models
 {
@@ -13,9 +14,10 @@ namespace SistemaHoteleroWeb.Models
 
         [Required]
         [StringLength(50)]
-        public string Tipo { get; set; } = string.Empty; 
+        public string Tipo { get; set; } = string.Empty;
 
         [Required]
+        [Column(TypeName = "decimal(18,2)")]
         public decimal PrecioPorNoche { get; set; }
 
         [Required]

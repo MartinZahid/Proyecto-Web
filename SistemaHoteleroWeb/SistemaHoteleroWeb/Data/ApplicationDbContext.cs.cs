@@ -19,6 +19,39 @@ namespace SistemaHoteleroWeb.Data
         {
             base.OnModelCreating(modelBuilder);
 
+            // Evita múltiples rutas en cascada
+            modelBuilder.Entity<ReservacionServicio>()
+                .HasOne(rs => rs.Reservacion)
+                .WithMany()
+                .HasForeignKey(rs => rs.ReservacionId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<ReservacionServicio>()
+                .HasOne(rs => rs.Cliente)
+                .WithMany()
+                .HasForeignKey(rs => rs.ClienteId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<ReservacionServicio>()
+                .HasOne(rs => rs.Servicio)
+                .WithMany()
+                .HasForeignKey(rs => rs.ServicioId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Reservacion>()
+                .HasOne(r => r.Cliente)
+                .WithMany()
+                .HasForeignKey(r => r.ClienteId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+            modelBuilder.Entity<Reservacion>()
+                .HasOne(r => r.Habitacion)
+                .WithMany()
+                .HasForeignKey(r => r.HabitacionId)
+                .OnDelete(DeleteBehavior.Restrict);
+
+           
+
             modelBuilder.Entity<Habitacion>().HasData(
                 new Habitacion { Id = 1, Numero = "101", Tipo = "Sencilla", PrecioPorNoche = 800m, Estado = "Libre" },
                 new Habitacion { Id = 2, Numero = "102", Tipo = "Sencilla", PrecioPorNoche = 800m, Estado = "Ocupada" },
