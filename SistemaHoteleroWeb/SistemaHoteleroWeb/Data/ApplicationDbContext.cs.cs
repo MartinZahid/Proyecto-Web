@@ -10,11 +10,10 @@ namespace SistemaHoteleroWeb.Data
         }
 
         public DbSet<Habitacion> Habitaciones { get; set; }
-        //Prox Modelos  
-        // public DbSet<Cliente>         Clientes         { get; set; }
-        // public DbSet<Servicio>        Servicios        { get; set; }
-        // public DbSet<Reservacion>     Reservaciones    { get; set; }
-        // public DbSet<ConsumoServicio> ConsumoServicios { get; set; }
+        public DbSet<Cliente> Clientes { get; set; }
+        public DbSet<Servicio> Servicios { get; set; }
+        public DbSet<Reservacion> Reservaciones { get; set; }
+        public DbSet<ReservacionServicio> ReservacionServicios { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
