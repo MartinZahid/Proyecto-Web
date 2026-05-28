@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\onedrive\\escritorio\\proyecto web\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\onedrive\\escritorio\\proyecto web\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\models\\reservacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\models\\reservacionservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\onedrive\\escritorio\\proyecto web\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\models\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\onedrive\\escritorio\\proyecto web\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\models\\reservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\models\\reservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\onedrive\\escritorio\\proyecto web\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\models\\habitacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -17,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\onedrive\\escritorio\\proyecto web\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\onedrive\\escritorio\\proyecto web\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\models\\reservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|solutionrelative:sistemahoteleroweb\\models\\reservacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1118C632-7FB9-5810-717D-3DC73BCA4EFD}|SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj|c:\\users\\robol\\onedrive\\escritorio\\proyecto web\\proyecto-web\\sistemahoteleroweb\\sistemahoteleroweb\\dto\\clientedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,41 +50,45 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ReservacionServicio.cs",
               "DocumentMoniker": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\ReservacionServicio.cs",
               "RelativeDocumentMoniker": "SistemaHoteleroWeb\\Models\\ReservacionServicio.cs",
               "ToolTip": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\ReservacionServicio.cs",
               "RelativeToolTip": "SistemaHoteleroWeb\\Models\\ReservacionServicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T07:53:23.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Servicio.cs",
               "DocumentMoniker": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\Servicio.cs",
               "RelativeDocumentMoniker": "SistemaHoteleroWeb\\Models\\Servicio.cs",
               "ToolTip": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\Servicio.cs",
               "RelativeToolTip": "SistemaHoteleroWeb\\Models\\Servicio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwBkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-28T07:52:28.34Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Reservacion.cs",
               "DocumentMoniker": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\Reservacion.cs",
               "RelativeDocumentMoniker": "SistemaHoteleroWeb\\Models\\Reservacion.cs",
@@ -110,7 +114,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Cliente.cs",
               "DocumentMoniker": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\Cliente.cs",
               "RelativeDocumentMoniker": "SistemaHoteleroWeb\\Models\\Cliente.cs",
@@ -123,7 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Habitacion.cs",
               "DocumentMoniker": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\Models\\Habitacion.cs",
               "RelativeDocumentMoniker": "SistemaHoteleroWeb\\Models\\Habitacion.cs",
