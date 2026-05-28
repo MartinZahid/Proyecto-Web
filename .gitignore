@@ -25,7 +25,8 @@ x86/
 bld/
 [Log]s/
 [Log]*.txt
-
+package-lock.json
+package.json
 
 npm-debug.log*
 yarn-debug.log*
