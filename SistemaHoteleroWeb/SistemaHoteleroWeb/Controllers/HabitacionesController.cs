@@ -6,9 +6,7 @@ using SistemaHoteleroWeb.Models;
 
 namespace SistemaHoteleroWeb.Controllers
 {
-    public class HabitacionesController
 
-    {
         [ApiController]
         [Route("api/[controller]")]
         public class habitacionesController : ControllerBase
@@ -125,5 +123,5 @@ namespace SistemaHoteleroWeb.Controllers
             }
         }
     }
-}
+
     
