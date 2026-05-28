@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj": {}
+    "C:\\Users\\emmya\\OneDrive\\Documentos\\ESCUELA\\2026-1\\ProgWeb\\ProyectoFinal\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj": {
+    "C:\\Users\\emmya\\OneDrive\\Documentos\\ESCUELA\\2026-1\\ProgWeb\\ProyectoFinal\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+        "projectUniqueName": "C:\\Users\\emmya\\OneDrive\\Documentos\\ESCUELA\\2026-1\\ProgWeb\\ProyectoFinal\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
         "projectName": "SistemaHoteleroWeb",
-        "projectPath": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
-        "packagesPath": "C:\\Users\\robol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robol\\OneDrive\\Escritorio\\Proyecto Web\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\obj\\",
+        "projectPath": "C:\\Users\\emmya\\OneDrive\\Documentos\\ESCUELA\\2026-1\\ProgWeb\\ProyectoFinal\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+        "packagesPath": "C:\\Users\\emmya\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\emmya\\OneDrive\\Documentos\\ESCUELA\\2026-1\\ProgWeb\\ProyectoFinal\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\robol\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\emmya\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
