@@ -1264,24 +1264,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Maritn\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\emmya\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+      "projectUniqueName": "C:\\Users\\emmya\\OneDrive\\Documentos\\ESCUELA\\2026-1\\ProgWeb\\ProyectoFinal\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
       "projectName": "SistemaHoteleroWeb",
-      "projectPath": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
-      "packagesPath": "C:\\Users\\Maritn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Maritn\\OneDrive\\Documentos\\ITH\\Pregamacion web\\Proyectoweb\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\obj\\",
+      "projectPath": "C:\\Users\\emmya\\OneDrive\\Documentos\\ESCUELA\\2026-1\\ProgWeb\\ProyectoFinal\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\SistemaHoteleroWeb.csproj",
+      "packagesPath": "C:\\Users\\emmya\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\emmya\\OneDrive\\Documentos\\ESCUELA\\2026-1\\ProgWeb\\ProyectoFinal\\Proyecto-Web\\SistemaHoteleroWeb\\SistemaHoteleroWeb\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Maritn\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\emmya\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
