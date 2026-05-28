@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import ClientManager from './components/ClientManager'
+import ServiceManager from './components/ServiceManager'
 import './App.css'
 
 function App() {
@@ -39,11 +40,7 @@ function App() {
             <h2>Gestión de Habitaciones - Próximamente</h2>
           </div>
         )}
-        {activeTab === 'servicios' && (
-          <div className="placeholder">
-            <h2>Gestión de Servicios - Próximamente</h2>
-          </div>
-        )}
+        {activeTab === 'servicios' && <ServiceManager />}
       </main>
     </div>
   )
