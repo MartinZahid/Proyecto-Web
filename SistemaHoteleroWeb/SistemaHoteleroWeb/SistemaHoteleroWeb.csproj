@@ -27,7 +27,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\" />
     <Folder Include="Vistas\" />
     <Folder Include="Services\" />
     <Folder Include="Views\" />
