@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SistemaHoteleroWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebfdc7cad056360310f72a8c2892f194466ffb76")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f6384b8172842220f3fe4af020496181275ddff")]
 [assembly: System.Reflection.AssemblyProductAttribute("SistemaHoteleroWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SistemaHoteleroWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
