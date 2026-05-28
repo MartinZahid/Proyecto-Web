@@ -6,8 +6,7 @@ using SistemaHoteleroWeb.Models;
 
 namespace SistemaHoteleroWeb
 {
-    public class ServiciosController
-    {
+  
         [ApiController]
         [Route("api/[controller]")]
         public class serviciosController : ControllerBase
@@ -84,4 +83,4 @@ namespace SistemaHoteleroWeb
             }
         }
     }
-}
+
