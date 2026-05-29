@@ -12,8 +12,8 @@ using SistemaHoteleroWeb.Data;
 namespace SistemaHoteleroWeb.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20260528093408_InitialMigrate")]
-    partial class InitialMigrate
+    [Migration("20260529101209_InitialSqlServerMigration")]
+    partial class InitialSqlServerMigration
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
