@@ -3,6 +3,8 @@ import Navbar from "./components/Navbar"
 import ClientManager from "./components/ClientManager"
 import ServiceManager from "./components/ServiceManager"
 import Habitaciones from "./pages/Habitaciones"
+import Dashboard from "./pages/Dashboard"
+
 import ReservacionManager from "./components/ReservacionManager" 
 import CheckoutManager from "./components/CheckoutManager"
 
@@ -32,10 +34,16 @@ export default function App() {
       <Navbar />
       <div style={{ maxWidth: "1100px", margin: "0 auto", padding: "24px 16px" }}>
         <Routes>
+          <Route path="/habitaciones" element={<Habitaciones />} />
+<Route path="/" element={<Dashboard />} />
           <Route path="/"              element={<Pendiente titulo="Dashboard – Indicadores del Hotel" />} />
           <Route path="/habitaciones"  element={<Habitaciones />} />
           <Route path="/clientes"      element={<ClientManager />} />
           <Route path="/servicios"     element={<ServiceManager />} />
+
+
+          <Route path="/reservaciones" element={<Pendiente titulo="Módulo de Reservaciones" />} />
+          <Route path="/checkout"      element={<Pendiente titulo="Check-Out y Facturación" />} />
           <Route path="/reservaciones" element={<ReservacionManager />} /> // 
           <Route path="/checkout"      element={<CheckoutManager />} />
           <Route path="*"              element={<NotFound />} />
