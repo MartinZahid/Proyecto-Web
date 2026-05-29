@@ -5,8 +5,9 @@ import ServiceManager from "./components/ServiceManager"
 import Habitaciones from "./pages/Habitaciones"
 import Dashboard from "./pages/Dashboard"
 
+import ReservacionManager from "./components/ReservacionManager" 
+import CheckoutManager from "./components/CheckoutManager"
 
-// Placeholders 
 function Pendiente({ titulo }) {
   return (
     <div style={{ textAlign: "center", padding: "60px", color: "#9ca3af" }}>
@@ -36,13 +37,15 @@ export default function App() {
           <Route path="/habitaciones" element={<Habitaciones />} />
 <Route path="/" element={<Dashboard />} />
           <Route path="/"              element={<Pendiente titulo="Dashboard – Indicadores del Hotel" />} />
-          <Route path="/habitaciones"  element={<Pendiente titulo="Gestión de Habitaciones" />} />
+          <Route path="/habitaciones"  element={<Habitaciones />} />
           <Route path="/clientes"      element={<ClientManager />} />
           <Route path="/servicios"     element={<ServiceManager />} />
 
 
           <Route path="/reservaciones" element={<Pendiente titulo="Módulo de Reservaciones" />} />
           <Route path="/checkout"      element={<Pendiente titulo="Check-Out y Facturación" />} />
+          <Route path="/reservaciones" element={<ReservacionManager />} /> // 
+          <Route path="/checkout"      element={<CheckoutManager />} />
           <Route path="*"              element={<NotFound />} />
         </Routes>
       </div>
