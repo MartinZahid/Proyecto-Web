@@ -2,6 +2,7 @@ import { BrowserRouter, Routes, Route } from "react-router-dom"
 import Navbar from "./components/Navbar"
 import ClientManager from "./components/ClientManager"
 import ServiceManager from "./components/ServiceManager"
+import Habitaciones from "./pages/Habitaciones"
 
 // Placeholders 
 function Pendiente({ titulo }) {
@@ -30,6 +31,8 @@ export default function App() {
       <Navbar />
       <div style={{ maxWidth: "1100px", margin: "0 auto", padding: "24px 16px" }}>
         <Routes>
+          <Route path="/habitaciones" element={<Habitaciones />} />
+
           <Route path="/"              element={<Pendiente titulo="Dashboard – Indicadores del Hotel" />} />
           <Route path="/habitaciones"  element={<Pendiente titulo="Gestión de Habitaciones" />} />
           <Route path="/clientes"      element={<ClientManager />} />
